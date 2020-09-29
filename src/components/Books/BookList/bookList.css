@@ -1,0 +1,8 @@
+.booklistDemo{
+    width: 90%;
+    max-width: 960px;
+    overflow-x: scroll;
+}
+.booklistDemo::-webkit-scrollbar {
+    display: none;
+}

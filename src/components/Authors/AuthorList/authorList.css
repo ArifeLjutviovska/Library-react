@@ -1,0 +1,8 @@
+.authorlistDemo{
+    width: 90%;
+    max-width: 960px;
+    overflow-x: scroll;
+}
+.authorlistDemo::-webkit-scrollbar {
+    display: none;
+}

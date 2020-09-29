@@ -1,0 +1,23 @@
+.author{
+    background-color: lightgray;
+    display: inline-block;
+    height: 100px;
+    width: 600px;
+    border: 1px solid rgb(240, 0, 228);
+    margin: 6px;
+    text-align: center;
+
+
+}
+.crd{
+    border:1px solid ;
+    width: 600px;
+
+}
+.m-w{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.txt{
+    margin-top: -8px;
+}

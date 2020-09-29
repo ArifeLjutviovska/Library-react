@@ -1,0 +1,33 @@
+.book{
+    background-color: lightgray;
+    display: inline-block;
+    height: 200px;
+    width: 600px;
+    border: 1px solid rgb(240, 0, 228);
+    margin: 6px;
+    text-align: center;
+
+
+}
+.cr{
+    margin-left: -280px;
+}
+.con{
+    margin-right: -250px;
+    margin-top: -28px;
+}
+.at-cl{
+    display: inline;
+}
+.crd{
+    border:1px solid ;
+    width: 600px;
+
+}
+.m-w{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.txt{
+    margin-top: 15px;
+}

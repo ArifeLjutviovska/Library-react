@@ -1,0 +1,8 @@
+.contributorlistDemo{
+    width: 90%;
+    max-width: 960px;
+    overflow-x: scroll;
+}
+.contributorlistDemo::-webkit-scrollbar {
+    display: none;
+}
